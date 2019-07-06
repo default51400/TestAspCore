@@ -1,0 +1,14 @@
+C:\Users\Al.Panda\source\repos\TestAspCore\XUnitTestAspCore.Tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Al.Panda\source\repos\TestAspCore\XUnitTestAspCore.Tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Al.Panda\source\repos\TestAspCore\XUnitTestAspCore.Tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Al.Panda\source\repos\TestAspCore\XUnitTestAspCore.Tests\bin\Debug\netcoreapp2.2\XUnitTestAspCore.Tests.deps.json
+C:\Users\Al.Panda\source\repos\TestAspCore\XUnitTestAspCore.Tests\bin\Debug\netcoreapp2.2\XUnitTestAspCore.Tests.runtimeconfig.json
+C:\Users\Al.Panda\source\repos\TestAspCore\XUnitTestAspCore.Tests\bin\Debug\netcoreapp2.2\XUnitTestAspCore.Tests.runtimeconfig.dev.json
+C:\Users\Al.Panda\source\repos\TestAspCore\XUnitTestAspCore.Tests\bin\Debug\netcoreapp2.2\XUnitTestAspCore.Tests.dll
+C:\Users\Al.Panda\source\repos\TestAspCore\XUnitTestAspCore.Tests\bin\Debug\netcoreapp2.2\XUnitTestAspCore.Tests.pdb
+C:\Users\Al.Panda\source\repos\TestAspCore\XUnitTestAspCore.Tests\obj\Debug\netcoreapp2.2\XUnitTestAspCore.Tests.csprojAssemblyReference.cache
+C:\Users\Al.Panda\source\repos\TestAspCore\XUnitTestAspCore.Tests\obj\Debug\netcoreapp2.2\XUnitTestAspCore.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Al.Panda\source\repos\TestAspCore\XUnitTestAspCore.Tests\obj\Debug\netcoreapp2.2\XUnitTestAspCore.Tests.AssemblyInfoInputs.cache
+C:\Users\Al.Panda\source\repos\TestAspCore\XUnitTestAspCore.Tests\obj\Debug\netcoreapp2.2\XUnitTestAspCore.Tests.AssemblyInfo.cs
+C:\Users\Al.Panda\source\repos\TestAspCore\XUnitTestAspCore.Tests\obj\Debug\netcoreapp2.2\XUnitTestAspCore.Tests.dll
+C:\Users\Al.Panda\source\repos\TestAspCore\XUnitTestAspCore.Tests\obj\Debug\netcoreapp2.2\XUnitTestAspCore.Tests.pdb
