@@ -25,4 +25,5 @@ steps:
 
 - task: PublishBuildArtifacts@1
   inputs:
+    SourceFolder: 'd:\a\1\s\'
     PathtoPublish: '$(Build.ArtifactStagingDirectory)'
